@@ -4,7 +4,7 @@
 
 <template>
   <div id="app">
-    <h3>Em desenvolvimento</h3>
+    <h3>Em desenvolvimento...</h3>
   </div>
 </template>
 
